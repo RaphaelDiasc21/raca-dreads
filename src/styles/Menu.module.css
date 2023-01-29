@@ -1,0 +1,12 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15%;
+    height: 75px;
+    background-color: #475438;
+}
+
+nav .nav-list {
+    display: flex;
+    justify-content: space-between;
+}
